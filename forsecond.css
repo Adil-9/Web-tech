@@ -1,0 +1,75 @@
+h3.first{
+	color: red;
+	font-size: 10px;
+	
+}
+h3.second{
+	color: red;
+	font-size: 15px;
+	
+}
+h3.third{
+	color: red;
+	font-size: 20px;
+}
+
+div{
+	display: inline-block;
+}
+table{
+	background-color: gray;
+	color: white;
+	border-color: black;
+	border-collapse: collapse;
+	border: 2px black;
+}
+div.first{
+	position: relative;
+	height: 300px;
+	width: 30%;
+	background-color: blueviolet;
+	border-width: 2px;
+	border: solid black;
+	display: inline-block;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding: 15px;
+	box-sizing: border-box;	
+	font-family: serif;
+}
+div.second{
+	position: relative;
+	height: 300px;
+	width: 30%;
+	
+	
+	color: red;
+	background-color: black;
+	text-align: center;
+	border-width: 3px;
+	border: dashed white;
+	display: inline-block;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding: 15px;
+	box-sizing: border-box;	
+	font-family: cursive;
+}
+div.third{
+	position: relative;
+	height: 300px;
+	
+	width: 30%;
+	
+	background-color: darkblue;
+	color: orange;
+	text-align: right;
+	border-width: 3px;
+	border: dotted lightblue;
+	display: inline-block;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding: 15px;
+	box-sizing: border-box;	
+	font-family: unset;
+}
